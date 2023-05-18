@@ -8,7 +8,7 @@ color: #000;
 h1 {
   font-size: 3rem;
   text-align: center;
-  text-decoration: overline;
+  text-decoration: underline;
 font-family: 'Abril Fatface', cursive;
 }
 header{
@@ -22,6 +22,7 @@ a{
   font-family: sans-serif;
   font-size: 1.5rem;
   font-weight:900;
+  text-decoration: none
 }
 
 #destinations{
