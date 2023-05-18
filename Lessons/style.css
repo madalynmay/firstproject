@@ -2,12 +2,14 @@
 
 p {
   background-color: blue;
-color: #fff;
+color: #000;
+  font-family: serif;
 }
 h1 {
   font-size: 3rem;
   text-align: center;
   text-decoration: overline;
+  font-family:cursive;
 }
 header{
   
@@ -17,6 +19,9 @@ body {
 }
 a{
   background-color: green;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight:900;
 }
 
 #destinations{
